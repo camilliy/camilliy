@@ -1,16 +1,14 @@
-### Hi there 👋
+### Bem vindo ao meu perfil! 💙
 
-<!--
-**camilliy/camilliy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Camilliy Victoria Schwarzer 
 
-Here are some ideas to get you started:
+- Estou estudando na plataforma alura
+- Estou me desenvolvendo nas linguagens JavaScript, HTML e CSS
+- Utilizo este espaço para minha organização e compartilhamento dos meus projetos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Você pode entrar em contato comigo 📫
+
+  camilliy.schwarzer@escola.pr.gov.br
+
+
+  ![](https://media.tenor.com/M1li4cr2TOoAAAAC/stressed-out.gif)
